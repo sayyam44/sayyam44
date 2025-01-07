@@ -15,7 +15,10 @@ jobs:
     steps:
       - name: Clone repo
         uses: actions/checkout@v3
-    
+
+      - name: Create 'dist' folder if it doesn't exist
+        run: mkdir -p dist
+
       - name: Generate the snake files in './dist/'
         uses: Platane/snk@v3
         id: snake-gif
