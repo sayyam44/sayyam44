@@ -40,8 +40,7 @@
   <h2>🐍 My Contributions 🐍</h2>
   <br>
 
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/sayyam44/sayyam44/output/github-contribution-grid-snake.svg" />
-
+ <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
   <br/><br/><br/>
 </div>
 
