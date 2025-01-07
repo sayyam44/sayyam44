@@ -5,8 +5,8 @@
 <h3 align="center">A passionate Software Developer in Canada.</h3>
 
 <br/>
-
-<div align="center">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<div align="left">
   
 🔭 I’m currently working on **Some Side projects using React and Django.**
 
