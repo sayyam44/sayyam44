@@ -40,7 +40,7 @@
   <h2>🐍 My Contributions 🐍</h2>
   <br>
 
- <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+ <img src="https://raw.githubusercontent.com/sayyam44/sayyam44/output/snake.svg" alt="Snake animation" />
   <br/><br/><br/>
 </div>
 
