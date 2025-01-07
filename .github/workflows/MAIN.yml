@@ -25,18 +25,22 @@ jobs:
         gif_out_path: dist/github-contribution-grid-snake.gif
         svg_out_path: dist/github-contribution-grid-snake.svg
 
+    # Debugging step to print the contents of dist folder
+    - run: ls -la dist
+
     # Show the status of the build for debugging purposes
     - run: git status
 
-    # Push the changes to the main branch
-    - name: Push changes
-      uses: ad-m/github-push-action@v0.6.0
-      with:
-        github_token: ${{ secrets.GITHUB_TOKEN }}
-        branch: main
-        force: true
-
-    # Push to GitHub Pages
+    # Commit and Push changes
+    - name: Commit and Push changes
+      run: |
+        git add dist/github-contribution-grid-snake.gif dist/github-contribution-grid-snake.svg
+        git commit -m "Update snake animation"
+        git push origin main
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      
+    # Optionally, push to GitHub Pages (if necessary)
     - uses: crazy-max/ghaction-github-pages@v3
       with:
         target_branch: main
