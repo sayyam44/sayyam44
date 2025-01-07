@@ -18,8 +18,6 @@ jobs:
       - name: Generate Snake animation
         uses: Platane/snk@v2
         with:
-          # Generate the snake in a .svg file
-          # Output is stored in the `output/snake.svg` file
           output: dist/snake.svg
 
       - name: Push the Snake animation to the output branch
