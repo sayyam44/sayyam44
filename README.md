@@ -27,8 +27,8 @@
 <h2>Connect with me:</h2>
 <!-- <p align="left"> -->
 <a href="https://twitter.com/kundrasayyam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kundrasayyam" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/linkedin.com/in/sayyamkundra44" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/sayyamkundra44" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/sayyamkundra/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/sayyamkundra/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/sayyamkundra44" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/sayyamkundra44" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/sayyamkundra/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/sayyamkundra/" height="30" width="40" /></a>
 <!-- </p> -->
 </div>
 
